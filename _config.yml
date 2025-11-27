@@ -1,0 +1,31 @@
+# _config.yml
+title: "Arthur Fisch"
+name: "Arthur Fisch"
+description: "Economista, Doutor em Administração Pública e Pesquisador."
+url: "https://seu-usuario.github.io" # Altere para o seu usuário do GitHub
+baseurl: ""
+
+# Tema e Visual (Dark Mode)
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # Define o visual escuro e elegante
+
+# Configurações do Autor (Barra Lateral)
+author:
+  name: "Arthur Fisch"
+  avatar: "/assets/images/profile.jpg" # Você precisará subir uma foto sua nessa pasta depois
+  bio: "Doutor em Administração Pública e Governo (FGV EAESP). Assessor da Presidência no Serpro."
+  location: "Brasília, Brasil"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/arthur-fisch-41378632"
+    - label: "Lattes"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "http://lattes.cnpq.br/5233397787341138"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:atrfisch@gmail.com"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
