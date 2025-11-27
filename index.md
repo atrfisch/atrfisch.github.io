@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Olá! [cite_start]Sou **Arthur Fisch**, Doutor em Administração Pública e Governo pela FGV EAESP e Economista formado pela FEA USP.
+Olá! Sou **Arthur Fisch**, Doutor em Administração Pública e Governo pela FGV EAESP e Economista formado pela FEA USP.
 
 Tenho uma trajetória que combina rigor acadêmico com experiência executiva no setor público e privado..
 Meus interesses de pesquisa e atuação focam em **Economia Política, Ciência de Dados, Estratégias Eleitorais e Políticas Públicas**.
