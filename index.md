@@ -1,9 +1,4 @@
----
-layout: single
-title: "Sobre Mim"
-permalink: /
-author_profile: true
----
+
 
 Olá! Sou **Arthur Fisch**, Doutor em Administração Pública e Governo pela FGV EAESP e Economista formado pela FEA USP.
 
