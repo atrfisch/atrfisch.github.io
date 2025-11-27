@@ -12,8 +12,8 @@ minimal_mistakes_skin: "dark" # Define o visual escuro e elegante
 # Configurações do Autor (Barra Lateral)
 author:
   name: "Arthur Fisch"
-  avatar: "/assets/images/profile.jpg" # Você precisará subir uma foto sua nessa pasta depois
-  bio: "Doutor em Administração Pública e Governo (FGV EAESP). Assessor da Presidência no Serpro."
+  avatar: "/profile.jpg" # Você precisará subir uma foto sua nessa pasta depois
+  bio: "Doutor em Administração Pública e Governo (FGV EAESP)."
   location: "Brasília, Brasil"
   links:
     - label: "LinkedIn"
