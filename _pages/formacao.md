@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Formação Acadêmica"
+permalink: /formacao/
+author_profile: true
+---
 
 Minha base acadêmica combina sólida formação em Economia com especialização profunda em Ciência Política e Administração Pública, complementada por experiências internacionais e técnicas em Ciência de Dados.
 
