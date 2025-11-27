@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Experiência Profissional"
+permalink: /experiencia/
+author_profile: true
+---
+
 Minha carreira transita entre a gestão governamental, grandes empresas de tecnologia e o mercado financeiro, sempre com foco em regulação, dados e estratégia.
 
 ### Setor Público e Organizações
